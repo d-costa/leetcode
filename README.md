@@ -10,5 +10,14 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/d-costa/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/d-costa/leetcode/tree/master/0118-pascals-triangle) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/d-costa/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/d-costa/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
