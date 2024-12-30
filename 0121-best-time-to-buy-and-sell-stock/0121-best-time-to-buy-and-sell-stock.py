@@ -12,12 +12,13 @@ class Solution:
 
             # local_max = curr_price # We cannot sell in the past
             
-            if curr_price < last_price:
-                # But we can always buy now at a lower price!
-                local_min = min(local_min, curr_price)
+            # But we can always buy now at a lower price!
+            if curr_price < local_min:
+                local_min = curr_price
 
             # Save best profit
-            best_profit = max(best_profit, curr_price - local_min)
+            if curr_price - local_min > best_profit:
+                best_profit = curr_price - local_min
 
             last_price = curr_price
         return best_profit
