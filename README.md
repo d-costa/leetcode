@@ -1,5 +1,6 @@
 # leetcode
-Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+
+Personal submissions of [Leetcode](https://leetcode.com) problems.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -30,3 +31,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0338-counting-bits](https://github.com/d-costa/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
+
+---
+
+Repository created and automated using [LeetHub](https://github.com/QasimWani/LeetHub)
