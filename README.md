@@ -30,6 +30,14 @@ Personal submissions of [Leetcode](https://leetcode.com) problems.
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/d-costa/leetcode/tree/master/0338-counting-bits) |
+## String
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/d-costa/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/d-costa/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
 
 ---
