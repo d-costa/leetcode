@@ -15,14 +15,7 @@ class Solution:
                         end = i
 
             if isinstance(start, int) and isinstance(end, int) and start < end:
-                found = set()
-                for i in range(start + 1, end):
-                    
-                    found.add(substr[i])
-                    if len(found) == 26:
-                        break
-    
-                total = total + len(found)
+                total = total + len(set(substr[start+1:end]))
                     
         return total
 
