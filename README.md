@@ -30,14 +30,21 @@ Personal submissions of [Leetcode](https://leetcode.com) problems.
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/d-costa/leetcode/tree/master/0338-counting-bits) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/d-costa/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/d-costa/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/d-costa/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/d-costa/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/d-costa/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Hash Table
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/d-costa/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
 
 ---
