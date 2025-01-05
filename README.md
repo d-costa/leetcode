@@ -19,6 +19,7 @@ Personal submissions of [Leetcode](https://leetcode.com) problems.
 | [0119-pascals-triangle-ii](https://github.com/d-costa/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/d-costa/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/d-costa/leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/d-costa/leetcode/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Personal submissions of [Leetcode](https://leetcode.com) problems.
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/d-costa/leetcode/tree/master/0392-is-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/d-costa/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/d-costa/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/d-costa/leetcode/tree/master/2465-shifting-letters-ii) |
@@ -48,6 +50,10 @@ Personal submissions of [Leetcode](https://leetcode.com) problems.
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/d-costa/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/d-costa/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
 
 ---
