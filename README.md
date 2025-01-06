@@ -7,6 +7,7 @@ Personal submissions of [Leetcode](https://leetcode.com) problems.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/d-costa/leetcode/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/d-costa/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/d-costa/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/d-costa/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -49,6 +50,7 @@ Personal submissions of [Leetcode](https://leetcode.com) problems.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/d-costa/leetcode/tree/master/0001-two-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/d-costa/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Two Pointers
 |  |
