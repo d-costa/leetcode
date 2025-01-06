@@ -11,6 +11,7 @@ Personal submissions of [Leetcode](https://leetcode.com) problems.
 | [0118-pascals-triangle](https://github.com/d-costa/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/d-costa/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/d-costa/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/d-costa/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/d-costa/leetcode/tree/master/2465-shifting-letters-ii) |
 ## Dynamic Programming
 |  |
@@ -39,12 +40,14 @@ Personal submissions of [Leetcode](https://leetcode.com) problems.
 | ------- |
 | [0392-is-subsequence](https://github.com/d-costa/leetcode/tree/master/0392-is-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/d-costa/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/d-costa/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/d-costa/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/d-costa/leetcode/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/d-costa/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/d-costa/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/d-costa/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/d-costa/leetcode/tree/master/2465-shifting-letters-ii) |
 ## Hash Table
