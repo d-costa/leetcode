@@ -26,6 +26,7 @@ Personal submissions of [Leetcode](https://leetcode.com) problems.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/d-costa/leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/d-costa/leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -77,6 +78,14 @@ Personal submissions of [Leetcode](https://leetcode.com) problems.
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/d-costa/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/d-costa/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/d-costa/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
 
 ---
