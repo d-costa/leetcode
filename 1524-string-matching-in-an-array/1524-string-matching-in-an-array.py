@@ -1,5 +1,5 @@
 class Solution:
-    # KMP
+    # KMP, worse in this case than brute force or std lib's str.count
     def stringMatching(self, words: List[str]) -> List[str]:
         found = []
         for word in words:
