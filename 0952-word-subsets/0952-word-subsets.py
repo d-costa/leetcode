@@ -16,8 +16,16 @@ class Solution:
             return True
 
         universal = set()
+        memo = set()
+
         for w1 in words1:
+            #w1_sorted = ''.join(sorted(w1))
+            #if w1_sorted in memo:
+            #    continue
+    
             if is_universal(w1):
                 universal.add(w1)
+    
+            #memo.add(w1_sorted)
 
         return list(universal)
