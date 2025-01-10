@@ -16,16 +16,18 @@ class Solution:
             return True
 
         universal = set()
-        memo = set()
+        memo = dict()
 
         for w1 in words1:
-            #w1_sorted = ''.join(sorted(w1))
-            #if w1_sorted in memo:
-            #    continue
-    
-            if is_universal(w1):
+            w1_sorted = ''.join(sorted(w1))
+            if w1_sorted in memo and memo[w1_sorted]:
                 universal.add(w1)
     
-            #memo.add(w1_sorted)
+            elif is_universal(w1):
+                universal.add(w1)
+                memo[w1_sorted] = True
+            else:
+                memo[w1_sorted] = False
+
 
         return list(universal)
